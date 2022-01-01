@@ -1,2 +1,0 @@
-# ReactionMenuRole
-Reaction Menu Role
