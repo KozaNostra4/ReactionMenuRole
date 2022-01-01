@@ -26,4 +26,4 @@ Reaction Menu Role
 `5.` **Μέσα στο PowerShell Window, τρέχετε την εντολή** `clear` **για να καθαρίσετε το panel και τρέχετε την εντολή** `node .`
 
 
-**Με το command** `prefix pou dwsate + verify. Παράδειγμα: !verify` **δημιουργήτε το panel**
+**Με το command** `prefix pou dwsate + verify. Παράδειγμα: !verify` **δημιουργείτε το panel**
