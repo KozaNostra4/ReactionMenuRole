@@ -1,0 +1,31 @@
+{
+    "token": "TOKEN",
+    "prefix": "PREFIX",
+    "guildid": "GUILD ID",
+
+    "channelID": "CHANNEL TO SEND MESSAGE",
+
+    
+    "description": "Μπορείτε από εδώ να διαλέξετε ρόλο",
+    "menudescription": "Μπορείτε από εδώ να διαλέξετε ρόλο",
+
+    "emoji1": "NAME OF EMOJI",
+    "emoji2": "NAME OF EMOJI",
+    "emoji3": "NAME OF EMOJI",
+    "emoji4": "NAME OF EMOJI",
+    "emoji5": "NAME OF EMOJI",
+
+
+    "labeltitle1": "TITLE FOR MENU ROLE",
+    "labeltitle2": "TITLE FOR MENU ROLE",
+    "labeltitle3": "TITLE FOR MENU ROLE",
+    "labeltitle4": "TITLE FOR MENU ROLE",
+    "labeltitle5": "TITLE FOR MENU ROLE",
+    
+    "roleid1": "ROLE ID",
+    "roleid2": "ROLE ID",
+    "roleid3": "ROLE ID",
+    "roleid4": "ROLE ID",
+    "roleid5": "ROLE ID"
+
+}
